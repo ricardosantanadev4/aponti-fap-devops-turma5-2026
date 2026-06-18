@@ -1,39 +1,39 @@
 name: Atualizar README
 
 on:
-push:
-branches:
-- main
-paths:
-- 'alunos/**'
+  push:
+    branches:
+      - main
+    paths:
+      - 'alunos/**'
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-atualizar-readme:
-runs-on: ubuntu-latest
+  atualizar-readme:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Configurar Node.js
-    uses: actions/setup-node@v4
-    with:
-      node-version: 22
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
 
-  - name: Gerar README
-    run: node scripts/gerar-readme.js
+      - name: Gerar README
+        run: node scripts/gerar-readme.js
 
-  - name: Commit das alterações
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit das alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      git add README.md
+          git add README.md
 
-      git diff --cached --quiet || (
-        git commit -m "docs: atualizar lista da turma"
-        git push
-      )
+          git diff --cached --quiet || (
+            git commit -m "docs: atualizar lista da turma"
+            git push
+          )
