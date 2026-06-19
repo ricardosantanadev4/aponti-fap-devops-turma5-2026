@@ -26,6 +26,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/fililpe.png" width="50"> | Filipe Sousa | [@fililpe](https://github.com/fililpe) | Recife | [Perfil](https://linkedin.com/in/luizfilipesousa) |
 | <img src="https://github.com/Gabriel-Garabedian.png" width="50"> | Gabriel da SilvaDer Garabedian | [@Gabriel-Garabedian](https://github.com/Gabriel-Garabedian) | Jaboatõa dos Guararapes  | [Perfil](https://www.linkedin.com/in/garabedi4n) |
 | <img src="https://github.com/LucasEmmanoel06.png" width="50"> | Lucas Emmanoel | [@LucasEmmanoel06](https://github.com/LucasEmmanoel06) | Recife | [Perfil](https://linkedin.com/in/lucasemalbuquerque) |
+| <img src="https://github.com/lucas-henriquedias.png" width="50"> | Lucas Henrique Dias de Medeiros | [@lucas-henriquedias](https://github.com/lucas-henriquedias) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/lucas-henrique-dias-345666346/) |
 | <img src="https://github.com/https://github.com/LucasMadureiro.png" width="50"> | Lucas Madureiro | [@https://github.com/LucasMadureiro](https://github.com/https://github.com/LucasMadureiro) | Paulista | [Perfil](https://www.linkedin.com/in/lucas-madureiro-matias-6946a8277/) |
 | <img src="https://github.com/felipeGTBR.png" width="50"> | Luiz Felipe | [@felipeGTBR](https://github.com/felipeGTBR) | Jaboatão | [Perfil](https://linkedin.com/in/luiz-felipe-ti) |
 | <img src="https://github.com/Nayara1505.png" width="50"> | Nayara Karla Medeiros da Silva | [@Nayara1505](https://github.com/Nayara1505) | Jaboatão dos Guararapes | - |
@@ -39,7 +40,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 13
+Total de alunos cadastrados: 14
 
 Última atualização: 19/06/2026, 23:14
 
