@@ -20,6 +20,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 
 | Avatar | Nome | GitHub | Cidade | LinkedIn |
 |---------|---------|---------|---------|---------|
+| <img src="https://github.com/ded3v.png" width="50"> | Andre Chagas | [@ded3v](https://github.com/ded3v) | Recife | [Perfil](https://www.linkedin.com/in/andré-costa-b11917239) |
 | <img src="https://github.com/carlhenriquex.png" width="50"> | Carlos Henrique | [@carlhenriquex](https://github.com/carlhenriquex) | São Lourenço da Mata | [Perfil](https://linkedin.com/in/carloshenriquex) |
 | <img src="https://github.com/danilloheber.png" width="50"> | Danillo Heber | [@danilloheber](https://github.com/danilloheber) | Recife | [Perfil](https://linkedin.com/in/danilloheber) |
 | <img src="https://github.com/DiegoSouzaTech.png" width="50"> | Diego Kauã | [@DiegoSouzaTech](https://github.com/DiegoSouzaTech) | Recife-PE | [Perfil](https://www.linkedin.com/in/diego-souza-411bb8359/) |
@@ -49,7 +50,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 23
+Total de alunos cadastrados: 24
 
 Última atualização: 22/06/2026, 18:04
 
